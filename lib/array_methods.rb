@@ -5,7 +5,7 @@ array.include?(element)
 end
 
 def using_sort(array)
-binding.pry
+array.sort
 
 end
 
